@@ -66,3 +66,4 @@ public class Student {
  
 
 }
+jar.dir=jar
