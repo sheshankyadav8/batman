@@ -367,26 +367,7 @@ import javax.swing.table.*;
         finally{
          
 
-      //add all student info on table
-
-      jt=new JTable(data,column);
-
-      JScrollPane scrollBar =new JScrollPane(jt);  
-
-      f.add(scrollBar);  
-
-        
-
-      f.setSize(700,300); 
-
-      f.setVisible(true);    
-
-  }    
-
-    
-       
- }
- }
+     
      
     
  
