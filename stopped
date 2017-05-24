@@ -1,0 +1,304 @@
+[33mcommit 507847b477b9c4f6eee42aff7b8c94fabf5a7f25[m[33m ([m[1;36mHEAD -> [m[1;32mintegration[m[33m)[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Tue May 23 23:25:23 2017 -0400
+
+    lib property
+
+[33mcommit 1955cbed8bb46aa6edcfc25cf667a2eb2260d5e2[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Tue May 23 23:19:23 2017 -0400
+
+    added build.properties
+
+[33mcommit bc8e69c34d8eec59ab9344480c9c8c096d0de288[m[33m ([m[1;33mtag: webapp_1.0.2[m[33m, [m[1;33mtag: webapp_1.0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/bugfix1[m[33m, [m[1;32mmaster[m[33m, [m[1;32mbugfix1[m[33m)[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:39:43 2017 -0400
+
+    fixed config
+
+[33mcommit 6e5491680796df9729abc618afd0615dbd08ae64[m
+Merge: dccdb96 cf08841
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:37:04 2017 -0400
+
+    Merge branch 'master' into integration
+    
+    # Conflicts:
+    #       readme.txt.txt
+
+[33mcommit cf08841079f03f15108fcb512e95b87f0fe6ec7f[m[33m ([m[1;33mtag: webapp_1.0.0[m[33m)[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:26:12 2017 -0400
+
+    resolved
+
+[33mcommit 70376fc35d5fe3acb50dc6b1d5d24c129beef5c2[m
+Merge: 600b347 842bf0b
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:25:30 2017 -0400
+
+    Merge remote-tracking branch 'remotes/origin/integration'
+    
+    # Conflicts:
+    #       readme.txt.txt
+
+[33mcommit dccdb96e097898b043e88a616582805ae911d00b[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:24:05 2017 -0400
+
+    renamed text
+
+[33mcommit ae79d467c92e5588a26caa5441e803358e3bd2ab[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:23:04 2017 -0400
+
+    updated readme
+
+[33mcommit aa5f2acdb516c2c51676975a9f1c7e206101c2c6[m
+Merge: 842bf0b 44cbe22
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:19:28 2017 -0400
+
+    Merge remote-tracking branch 'remotes/origin/master' into integration
+
+[33mcommit 842bf0b427981bf5ab5edae9b65697f66b294428[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:17:48 2017 -0400
+
+    renamed repo
+
+[33mcommit dd1274f52afc276bc0c229b38689cad6ddbd5d7b[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:16:59 2017 -0400
+
+    deleted moron
+
+[33mcommit 600b34790eb492cd91f7044655a2824eb0b518a1[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 23:37:01 2017 -0400
+
+    updated readme.txt
+
+[33mcommit 44cbe22609352186122a2899ce105f403472848a[m
+Merge: 13b5bc1 1cf544b
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:17:32 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+    
+    # Conflicts:
+    #       Student.ctxt
+
+[33mcommit 13b5bc14b8d400a2b926378a66dacfc89dd15c34[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:11:58 2017 -0400
+
+    added numComments=15
+
+[33mcommit 1cf544b0990d4ec43a1fbe27c5de4312b9dddee8[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:11:07 2017 -0400
+
+    deleted numComments=13
+
+[33mcommit 1cfdafe168ddb3387b308c6c369dc2c3b43625fe[m
+Merge: 5ed9a01 e45b78a
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:07:24 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+
+[33mcommit e45b78a2da015a6a6ab25f49aafc9d98465007dc[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:06:21 2017 -0400
+
+    updated student.cxt
+
+[33mcommit 9aa505f3915a2b58ac93b7c1202ceb73239825ed[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 16:13:00 2017 -0400
+
+    updated spydy
+
+[33mcommit 5ed9a0100508ea27406a5bde20a7c9be20e4ba3a[m
+Merge: 5787f2c 9acb05c
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 15:42:37 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+
+[33mcommit 5787f2c8b6afc5bbf5a410429ee3d8b094130ea1[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 15:40:04 2017 -0400
+
+    added jar.dir property
+
+[33mcommit 9acb05ca5fc41a47c786d692741087f201f6d639[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Thu May 18 19:50:13 2017 -0400
+
+    deleted public class student
+
+[33mcommit 61d83101171e0f0ba5e28bbcdf7f67ee9c2965f9[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Thu May 18 13:35:35 2017 -0400
+
+    updated files
+
+[33mcommit a6587de8d1787da0b9ab8633156f64aa6a39291d[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Wed May 17 00:43:33 2017 -0400
+
+    updated file
+[33mcommit 507847b477b9c4f6eee42aff7b8c94fabf5a7f25[m[33m ([m[1;36mHEAD -> [m[1;32mintegration[m[33m)[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Tue May 23 23:25:23 2017 -0400
+
+    lib property
+
+[33mcommit 1955cbed8bb46aa6edcfc25cf667a2eb2260d5e2[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Tue May 23 23:19:23 2017 -0400
+
+    added build.properties
+
+[33mcommit bc8e69c34d8eec59ab9344480c9c8c096d0de288[m[33m ([m[1;33mtag: webapp_1.0.2[m[33m, [m[1;33mtag: webapp_1.0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/bugfix1[m[33m, [m[1;32mmaster[m[33m, [m[1;32mbugfix1[m[33m)[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:39:43 2017 -0400
+
+    fixed config
+
+[33mcommit 6e5491680796df9729abc618afd0615dbd08ae64[m
+Merge: dccdb96 cf08841
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:37:04 2017 -0400
+
+    Merge branch 'master' into integration
+    
+    # Conflicts:
+    #       readme.txt.txt
+
+[33mcommit cf08841079f03f15108fcb512e95b87f0fe6ec7f[m[33m ([m[1;33mtag: webapp_1.0.0[m[33m)[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:26:12 2017 -0400
+
+    resolved
+
+[33mcommit 70376fc35d5fe3acb50dc6b1d5d24c129beef5c2[m
+Merge: 600b347 842bf0b
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:25:30 2017 -0400
+
+    Merge remote-tracking branch 'remotes/origin/integration'
+    
+    # Conflicts:
+    #       readme.txt.txt
+
+[33mcommit dccdb96e097898b043e88a616582805ae911d00b[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:24:05 2017 -0400
+
+    renamed text
+
+[33mcommit ae79d467c92e5588a26caa5441e803358e3bd2ab[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:23:04 2017 -0400
+
+    updated readme
+
+[33mcommit aa5f2acdb516c2c51676975a9f1c7e206101c2c6[m
+Merge: 842bf0b 44cbe22
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:19:28 2017 -0400
+
+    Merge remote-tracking branch 'remotes/origin/master' into integration
+
+[33mcommit 842bf0b427981bf5ab5edae9b65697f66b294428[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:17:48 2017 -0400
+
+    renamed repo
+
+[33mcommit dd1274f52afc276bc0c229b38689cad6ddbd5d7b[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Tue May 23 01:16:59 2017 -0400
+
+    deleted moron
+
+[33mcommit 600b34790eb492cd91f7044655a2824eb0b518a1[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 23:37:01 2017 -0400
+
+    updated readme.txt
+
+[33mcommit 44cbe22609352186122a2899ce105f403472848a[m
+Merge: 13b5bc1 1cf544b
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:17:32 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+    
+    # Conflicts:
+    #       Student.ctxt
+
+[33mcommit 13b5bc14b8d400a2b926378a66dacfc89dd15c34[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:11:58 2017 -0400
+
+    added numComments=15
+
+[33mcommit 1cf544b0990d4ec43a1fbe27c5de4312b9dddee8[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:11:07 2017 -0400
+
+    deleted numComments=13
+
+[33mcommit 1cfdafe168ddb3387b308c6c369dc2c3b43625fe[m
+Merge: 5ed9a01 e45b78a
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:07:24 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+
+[33mcommit e45b78a2da015a6a6ab25f49aafc9d98465007dc[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Mon May 22 22:06:21 2017 -0400
+
+    updated student.cxt
+
+[33mcommit 9aa505f3915a2b58ac93b7c1202ceb73239825ed[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 16:13:00 2017 -0400
+
+    updated spydy
+
+[33mcommit 5ed9a0100508ea27406a5bde20a7c9be20e4ba3a[m
+Merge: 5787f2c 9acb05c
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 15:42:37 2017 -0400
+
+    Merge branch 'master' of https://github.com/sheshankyadav8/batman
+
+[33mcommit 5787f2c8b6afc5bbf5a410429ee3d8b094130ea1[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Sat May 20 15:40:04 2017 -0400
+
+    added jar.dir property
+
+[33mcommit 9acb05ca5fc41a47c786d692741087f201f6d639[m
+Author: sheshankyadav8 <sheshankyadav8@gmail.com>
+Date:   Thu May 18 19:50:13 2017 -0400
+
+    deleted public class student
+
+[33mcommit 61d83101171e0f0ba5e28bbcdf7f67ee9c2965f9[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Thu May 18 13:35:35 2017 -0400
+
+    updated files
+
+[33mcommit a6587de8d1787da0b9ab8633156f64aa6a39291d[m
+Author: sheshank yadav dudaboina <sheshankyadav8@gmail.com>
+Date:   Wed May 17 00:43:33 2017 -0400
+
+    updated file
