@@ -1,0 +1,4 @@
+char.dir=java
+lib.dir=main
+class.dir=package
+lib.char=dir
