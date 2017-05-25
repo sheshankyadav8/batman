@@ -2,7 +2,7 @@
 
 
  
- @Override
+ 
  public String toString() {
   return "Student [name=" + name + ", phone=" + phone + ", address="
     + address + ", email=" + email + ", other=" + other + "]";
