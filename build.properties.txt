@@ -3,3 +3,5 @@ lib.dir=main
 class.dir=package
 lib.char=dir
 main.class=student
+main.class=employee
+main.class=package
